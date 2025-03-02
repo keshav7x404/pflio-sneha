@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Dhurjati&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Outfit:wght@100..900&display=swap');
+@import "tailwindcss";
+
+:root{
+  font-family: "Inter", sans-serif;
+}
+@keyframes spin-slow {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.animate-spin-slow {
+  animation: spin-slow 10s linear infinite;
+}
+
+
+
