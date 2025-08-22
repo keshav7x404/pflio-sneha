@@ -1,2 +1,2 @@
 # Portfolio-Website
-The portfolio link :-https://github.com/keshav7x404/pflio-sneha.git
+The portfolio link :-https://keshav7x404.github.io/pflio-sneha/
